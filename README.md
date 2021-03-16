@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flitvi
-- 👀 I’m interested fist in discover and learn hot to use this tool. 
+- 👀 I’m interested fist in discover and learn how to use this tool. 
 - 🌱 I’m currently learning C, sql and trying to get the big picture to then focus where i like more.
 - 💞️ I’m looking for good advices.
 
